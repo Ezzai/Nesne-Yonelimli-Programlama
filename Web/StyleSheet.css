@@ -1,0 +1,44 @@
+﻿.table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: saddlebrown;
+    color: white;
+}
+
+.table1 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+}
+
+.table2 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rosybrown;
+    color: white;
+}
+
+
+.table3 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+}
+
+
+.table4 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: darkslategray;
+    color: white;
+}
+
+
+.table5 {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: lightskyblue;
+    color: white;
+}
